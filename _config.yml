@@ -18,7 +18,7 @@ future: true
 
 title: FIGIÉ # the main title
 
-tagline: Finissant en gel/gif # it will display as the sub-title
+tagline: Finissants en gel/gif # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Site web des finissant du baccalauréat en génie informatique et électrique

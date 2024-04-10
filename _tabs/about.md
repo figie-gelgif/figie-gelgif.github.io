@@ -7,6 +7,9 @@ order: 4
 > Venez nous voir au RÉGIÉ (PLT-0104) pour toutes questions, nous y sommes très souvent!
 {: .prompt-tip }
 
-# Mathieu Faucher
+# L'équipe du Figié
 
-![img-description](https://i.ibb.co/7Y2yKXg/DSC-0273.jpg)
+- David Duchesne
+- Mathieu Faucher
+- Tommy Ouellet
+- Dylan Renaud
